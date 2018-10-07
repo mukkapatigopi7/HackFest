@@ -5,3 +5,6 @@ This is  my first Repository in GIT
 ```
 Welcome GitHub
 ```
+```
+Second time adding and commiting 
+```
